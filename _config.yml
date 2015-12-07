@@ -71,5 +71,5 @@ theme: yilia
 deploy:
   type: git
   repo: git@github.com:Gemerz/gemerz.github.io.git
-  branch: gh-pages
+  branch: master
   message: 'update!'
