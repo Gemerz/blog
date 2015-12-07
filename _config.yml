@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://gemerz.github.io/hexo
-root: /hexo/
+url: http://gemerz.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -67,7 +67,6 @@ theme: yilia
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-
 
 deploy:
   type: git
