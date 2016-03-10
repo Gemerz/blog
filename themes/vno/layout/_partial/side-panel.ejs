@@ -34,6 +34,11 @@
 
     </div>
 
-    <div class="panel-cover--overlay <%= theme.background.color %>"></div>
+    <div class="panel-cover--overlay <%= theme.background.color %>">
+        <div id="particles-js"></div>
+    </div>
+
+
+      <%- js(['js/particles.min.js','js/config.js']) %>
   </div>
 </header>
