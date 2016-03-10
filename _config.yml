@@ -4,8 +4,8 @@
 
 # Site
 title: Gemerz's dev.
-subtitle:
-description:
+subtitle: 1212
+description: 1212
 author: Gemer cheung
 language: zh-tw
 timezone:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: yilia
+theme: vno
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
