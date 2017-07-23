@@ -2,21 +2,21 @@ menu:
   #Archives: /archives
 #  黄金屋: /favourite
 #  时光机: /favourite/time.html
-  #我是: /aboutme
+  profile: https://resume.gemer.xyz
 rss: /atom.xml
-description: 
+description: Design & Desert, Code & Enthusiasm, Think & Meaning in Life.
 social:
   weibo:
   github: https://github.com/gemerz
   stack_overflow: 
   facebook: 
-  twitter: 
+  twitter: https://twitter.com/gemerzhang
   google_plus: 
 
 page_comment: false
 logo: /images/logo.png
 background:
-  cover: /images/background-cover.jpg
+  cover: linear-gradient(to top, #16222a, #3a6073)
   color: cover-green
 
 archive_date_format: MMM DD
