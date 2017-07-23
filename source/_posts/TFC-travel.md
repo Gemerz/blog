@@ -17,6 +17,8 @@ tags: [tfc]
 
 `8：50AM`後，原來真這麼多人，全場都是，那感覺真覺得前端無限好的感覺，開始表演，民遙風格的Bang隊和有點kay tse的喜帖街，可能會讓遠道而來的朋友感受到本地民風，一些港味和文藝，但去到 `成都` 這首主題歌，現場有點欠準。當然，還有熱舞。
 
+<video width="650" height="350"  controls="controls" style="display:block; margin:20px auto;"src="https://download.gemer.xyz/soucre/images/tfc/hot.MOV"></video>
+
 `9:10AM `主持人致辭，是tencent前端當家黃老師，說了一些回憶，IE6那段時間，說了一些行內關於無障礙技術推廣，說了些對未來。
 
 9：30AM 接下來是 大牛 *Nicolás Bevacqua* 的開場，因為語言問題，抬頭看下能聽懂的很少，我口譯部份給朋友聽，主要都TC39的歷史，以及es6 各個stage情況，還介紹es6 一些新特性，async iteration,rest props, url regex/name cap,class decorators等等，其他也值得去看，特別 regex那部份，因為其他已在用。

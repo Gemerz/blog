@@ -42,9 +42,9 @@ jquery可以說影響前端比較深遠的一個框架，是框架嗎？其
 
 > reactjs 就像男生一樣，想法多，得想到方方面面，但風氣就如農村的重男輕女，習慣繼承皇位。
 
-> vuejs 就像女生一樣，嬌小，思維直觀，`template` `javascript` `style`， 每個 `componet` 像 derivative 可自義聲明，有點女孩子富養的感覺。對於習慣MVC?思維有一個好的幫助。
+> vuejs 就像女生一樣，嬌小，思維直觀，`template` `javascript` `style`， 每個 `componet` 像 derivative 可自義聲明，有點女孩子富養的感覺。對於習慣MVC思維有一個好的幫助。
 
-那 angular 4呢 angular 2開始 `typescript` 寫，入門門檻更新，也採用新時代特性，習慣 `flowtype`和強類型的前端有了一個更好的選擇。
+那 angular 4呢 angular 2開始 `typescript` 寫，入門門檻更高，也採用新時代特性，習慣 `flowtype`和強類型的前端有了一個更好的選擇。
 
 江湖門派之爭，總有好勝之爭，這是好事。但想成為真正強者，還是知各家所長所短，不然到真正華山論劍之時，不學無術者自然是給淘汰。我的建議，潛力去研究，學其所長。
 
