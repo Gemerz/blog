@@ -28,7 +28,7 @@ jquery可以說影響前端比較深遠的一個框架，是框架嗎？其
 
 對於reactjs來說，可以說和jquery一樣相當影響，簡單來說，reactjs就如上文所說，現在前端框架是真是框架並不是工作集，例如：
 
-1. 獨立的人格。所以就有lifecircle生命周期的概念，生命周期就如人一樣，出生，成年，死亡和回收大自然，所以有`componentWillMount`, `componentDidMount`,`componentWillUnmount` 等生命周期階段.
+1. 獨立的人格。就如lifecircle生命周期的概念，生命周期就如人一樣，出生，成年，死亡和回收大自然，所以有`componentWillMount`, `componentDidMount`,`componentWillUnmount` 等生命周期階段.
 
 2. 生物信息流。對於state props來說,可以簡單講信息流，就是人一樣的身高，體重，以及dna,fingerprint一樣，就如人的生物信息流，那麼這些信息流會改變或不變嗎？其實不能說去量化這麼信息，reactjs只是記錄這個過程，就如你出生體重到死亡成灰都有一記錄值，就如性別一樣，你一樣可以改，但在更換性別前時就有一個記錄是什麼條件下改變的。
 
@@ -36,15 +36,15 @@ jquery可以說影響前端比較深遠的一個框架，是框架嗎？其
 
 4. 自我反復思考糾錯。至於`virtrual dom`又是什麼概念呢？因為javascript 的actural dom是一次渲染出來，以前開發時修過只是通過人工fresh才可看到，而`virtrual dom`只是在真正渲染前用diff算提交一个path的去更新view ，就如一个自我糾錯的行为一样。
 
-以上也是vuejs2改版之也具為的特性。
+以上也是vuejs2改版之後也具有的特性。
 
 兩者有什麼不同？可以講都是人，可以講男女之別。
 
-> reactjs 就像男生一樣，想法多，?得想到方方面面，?但風氣就如農村的重男?輕女，習慣繼承皇位。
+> reactjs 就像男生一樣，想法多，得想到方方面面，但風氣就如農村的重男輕女，習慣繼承皇位。
 
-> vuejs 就像女生一樣，嬌小，思維直觀，?`template` `javascript` `style`， 每個 `componet` 像 derivative 可自義聲明，有點女孩子富養的感覺。對於習慣MVC?思維有一個好的幫助。
+> vuejs 就像女生一樣，嬌小，思維直觀，`template` `javascript` `style`， 每個 `componet` 像 derivative 可自義聲明，有點女孩子富養的感覺。對於習慣MVC?思維有一個好的幫助。
 
-那 angular 4呢 ？ angular 2開始 `typescript` 寫，入門門檻更新，也採用新時代特性，?習慣 `flowtype`和強類型的前端有了一個更好的選擇。
+那 angular 4呢 angular 2開始 `typescript` 寫，入門門檻更新，也採用新時代特性，習慣 `flowtype`和強類型的前端有了一個更好的選擇。
 
 江湖門派之爭，總有好勝之爭，這是好事。但想成為真正強者，還是知各家所長所短，不然到真正華山論劍之時，不學無術者自然是給淘汰。我的建議，潛力去研究，學其所長。
 
