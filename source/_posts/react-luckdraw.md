@@ -12,7 +12,7 @@ tags: [javascript,react,vue]
 ![alt text](https://download.gemer.xyz/soucre/images/luckydraw.png "luckydraw")
 
 
-下一次版本，會考慮加上九宮格抽獎以其他可以的方式抽獎，或者利用canvas做一個腰帶confftti的效果。
+下一次版本，會考慮加上九宮格抽獎以其他可以的方式抽獎，或者利用canvas做一個彩帶confftti的效果。
  
 
 
