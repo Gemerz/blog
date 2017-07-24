@@ -2,7 +2,7 @@ title: 写个readhub.me的electron版本。
 date: 2017-07-23
 author: Gemer
 categories:
-- travel
+- javascript
 tags: [electron]
 
 --------
