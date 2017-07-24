@@ -17,7 +17,7 @@ tags: [tfc]
 
 `8：50AM`後，原來真這麼多人，全場都是，那感覺真覺得前端無限好的感覺，開始表演，民遙風格的Bang隊和有點kay tse的喜帖街，可能會讓遠道而來的朋友感受到本地民風，一些港味和文藝，但去到 `成都` 這首主題歌，現場有點欠準。當然，還有熱舞。
 
-<video width="650" height="350"  controls="controls" style="display:block; margin:20px auto;"src="https://download.gemer.xyz/soucre/images/tfc/hot.MOV"></video>
+<video  height="350"  controls="controls" style="width:100%;max-width:650px;display:block; margin:20px auto;"src="https://download.gemer.xyz/soucre/images/tfc/hot.MOV"></video>
 
 `9:10AM `主持人致辭，是tencent前端當家黃老師，說了一些回憶，IE6那段時間，說了一些行內關於無障礙技術推廣，說了些對未來。
 
