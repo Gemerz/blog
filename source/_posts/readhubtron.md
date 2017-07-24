@@ -11,25 +11,28 @@ tags: [electron]
 
 ![alt text](https://download.gemer.xyz/soucre/images/tfc/animation-600.gif "readhubtron")
 
->  [macOS 版本 v0.1.2](https://download.gemer.xyz/soucre/readhubtron/)
+>  [macOS 版本 v0.1.2](https://download.gemer.xyz/soucre/readhubtron/release/readhubtron-0.1.2.dmg)
 
->  [windows 版本 v0.1.2](https://download.gemer.xyz/soucre/readhubtron/)
+>  [windows 版本 v0.1.2](https://download.gemer.xyz/soucre/readhubtron/release/win-unpacked.zip)
 
 ## feature
 
 1. *增加 Notifacation.*
 2. *增加 推薦閱讀api*
 3. *flowType加强检测*
-4. *autoupdater + code Sgin*
+4. *code Sgin for autoupdater*
 5. *unit test and pinline test*
 
-<br>
+## update noted
+
+touchbar在development下可以，可惜production上没支持。
+
+![alt text](https://download.gemer.xyz/soucre/images/blog/readhub_touchbar.jpg "readhubtron")
+
 <br>
 <br>
 
-touchbar也development下可以，可惜production上没支持。
-
-
+And carry on.
 
 
 
