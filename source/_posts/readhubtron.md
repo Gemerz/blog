@@ -7,7 +7,7 @@ tags: [electron]
 
 --------
 
-之前在做一個項目用的就是electron,發現electron前端交互真是方便，不過之前內置go版tts在node，用child press run就可以，結果內存真是顯高，畢竟不是原生的mac os。之前看大輝老師的[readhub.me](http://readhub.me)上線，發現這個產品真不錯，以前也有個想法用spide去抓。當时腦一熱就用electron＋React+redux+persist寫一個readhub.me的版本叫readhubtron。后来也有人用swift写出来，逻辑差不多。
+之前在做一個項目用的就是electron,發現electron前端交互真是方便，不過之前內置go版tts在node，用child press run就可以，結果內存真是顯高，畢竟不是原生的mac os。之前看大輝老師的[readhub.me](http://readhub.me)上線，我算是小道消息的老用戶（只是接收端，低社交人士），發現這個產品真不錯，以前也有個想法用spide去抓。當时腦一熱就用electron＋React+redux+persist寫一個readhub.me的版本叫readhubtron。后来也有人用swift写出来，逻辑差不多。
 
 ![alt text](https://download.gemer.xyz/soucre/images/tfc/animation-600.gif "readhubtron")
 
