@@ -2,7 +2,7 @@ title: Nestjs，刚好遇上你，还好不放弃。
 date: 2019-01-15
 author: Gemer
 categories:
-- team
+- TV
 tags: [nestjs,后端]
 
 --------
@@ -13,5 +13,5 @@ express/koa，只能处理轻量级业务，尽量有许多版本的，如sailjs
 
 不过之前也看过[NestJS：我们一直在等待的精美的Node.js框架](https://cnodejs.org/topic/5ab233b8f5dfc27d7ad98a2c)，这文章过早看过，但只简单的介绍。但没有真正与主流框架对比过。
 
-现在nestjs已到v4，以typescript为开发框架实属为少，但必属精良，
+现在nestjs已到v4，以typescript为开发框架实属为少，但必属精良。
 
