@@ -7,7 +7,7 @@ tags: [tizen,webos]
 
 --------
 
-在如今看，tizen与webos这对韩国半代工技术的电视平台的由于廉价的原因，可以说在电视OS的如手机的apple与google两家阵型，但是随着技术的发展，加上apple OS与andoird TV的发力，在全球份额来说，Samsung与LG的份额也随着减少与被跳战，而更有趣的方面是，samsung随着手机市场的失控，近来的TV的tizen可说的没有什么突破，更严重来说，一直就那里，反观，LG上，技术由于一定利用开源linux做为基核，随着来说，体验稳定，稍为有好转，份额有所增加，但是这对难受在2020第一季节占根据statista的市场调查数据显示，tizen为11%, webos为 7%。
+在如今看，tizen与webos这对韩国半代工技术的电视平台的由于廉价的原因，可以说在电视OS的如手机的apple与google两家阵型，但是随着技术的发展，加上apple OS与andoird TV的发力，在全球份额来说，Samsung与LG的份额也随着减少与被挑战，而更有趣的方面是，samsung随着手机市场的失控，近来的TV的tizen可说的没有什么突破，更严重来说，一直就那里，反观，LG上，技术由于一定利用开源linux做为基核，随着来说，体验稳定，稍为有好转，份额有所增加，但是这对难受在2020第一季节占根据statista的市场调查数据显示，tizen为11%, webos为 7%。
 从2019年在公司所有看到tizen 15%，webos为6%的信息，tizen是有所下降的。
 
 ![WX20201130-141931@2x](https://user-images.githubusercontent.com/60084718/100586429-1cd07a80-332a-11eb-8c6f-8ea8c48427af.png)
