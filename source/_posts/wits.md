@@ -1,4 +1,4 @@
-title:  Samsung 开发TIP (1) --- wits开发与介绍
+title:  Samsung tv 开发TIP (1) --- wits开发与介绍
 date: 2020-08-25
 author: Gemer
 categories:
