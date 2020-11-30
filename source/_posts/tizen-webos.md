@@ -21,11 +21,11 @@ tags: [tizen,webos]
 ##技术体系：
 |       | Samsung tizen           | LG Webos          | 总结|
 |----------|-------------------------|-------------------|------ |
-| 开发语言  | 1\. Web/js 2.native C++ | 1.Web/js 2.QT QML |  C++/QML有难度 市场偏少，总体是以js开发为主,人工成本低|
-| 开发IDE | Tizen studio            | None              |  Tizen studio是eclispe二次开发，内存性能不足，证书配置难度大，要samsung account (3.7),不建议以Tizen开发|
-|    开发及开发者周边   |         官方文档，社区开发帮助不大，欠维护                |                   官方文档，有开源OSE, github上多个方向      |  大部分在stackflow|
-| 开发调试    |       有新开发工具wits                  |         有ares-cli          |  调试相对低来说， LG更显得理念好一些，都有自家的CLI|
-|    模似器   |  都是基本java的vitrual linux image | 都是基本java的vitrual linux image          | 模似器除旧，与真机出入都很大，对于官方部doc spec有效 | 建议大多数真机
+| 开发语言 | 1\. Web/js 2.native C++ | 1.Web/js 2.QT QML  | C++/QML有难度 市场偏少，总体是以js开发为主,人工成本低| |
+| 开发IDE | Tizen studio  | None | Tizen studio是eclispe二次开发，内存性能不足，证书配置难度大，要samsung account (3.7),不建议以Tizen开发 |
+| 开发及开发者周边   |  官方文档，社区开发帮助不大，欠维护      | 官方文档，有开源OSE, github上多个方向 | 大部分在stackflow有相关 |
+| 开发调试 |  有新开发工具wits   |   有ares-cli  | 调试相对低来说， LG更显得理念好一些，都有自家的CLI| |
+| 模似器  |  都是基本java的vitrual linux image  |  都是基本java的vitrual linux image  | 模似器除旧，与真机出入都很大，对于官方部doc spec有效 建议大多数真机 |
 
 
 ###以上是两个平台的技术要数：
